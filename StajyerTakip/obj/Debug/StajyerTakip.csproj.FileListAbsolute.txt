@@ -1,0 +1,11 @@
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.exe.config
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.exe
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.pdb
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.FrmHome.resources
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.FrmIslem.resources
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.FrmTakip.resources
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.Properties.Resources.resources
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.exe
+C:\Users\Win\Desktop\AKE\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.pdb
