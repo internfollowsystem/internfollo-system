@@ -63,7 +63,7 @@ namespace StajyerTakip.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap pp {
+       internal static System.Drawing.Bitmap pp {
             get {
                 object obj = ResourceManager.GetObject("pp", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
