@@ -51,7 +51,7 @@ namespace StajyerTakip
                 yenikisi.Cinsiyet = comboBox1.Text;
                 yenikisi.EvTelefonu = textBox8.Text;
                 yenikisi.CepTelefonu = textBox6.Text;
-                yenikisi.İkametgah = textBox9.Text;
+                yenikisi.Ikametgah = textBox9.Text;
                 yenikisi.EPosta = textBox10.Text;
                 yenikisi.WebAdress = textBox11.Text;
                 yenikisi.Boy = textBox12.Text;
@@ -59,7 +59,7 @@ namespace StajyerTakip
                 yenikisi.KanGrubu = comboBox2.Text;
 
                 yenikisi.acl_AdSoyad = textBox14.Text;
-                yenikisi.acl_İkametgah = textBox15.Text;
+                yenikisi.acl_Ikametgah = textBox15.Text;
                 yenikisi.acl_Akrabalik = textBox16.Text;
                 yenikisi.acl_Telefon = textBox17.Text;
                 yenikisi.acl_EPosta = textBox18.Text;
@@ -92,7 +92,7 @@ namespace StajyerTakip
                 yenikisi.StjSuresi = textBox26.Text;
                 yenikisi.KlnSuresi = textBox27.Text;
                 yenikisi.StjDurumu = textBox28.Text;
-                yenikisi.Stjİcerigi = textBox29.Text;
+                yenikisi.StjIcerigi = textBox29.Text;
 
                 i_add.Add(yenikisi);
                 MessageBox.Show("başarılı2");
@@ -134,13 +134,9 @@ namespace StajyerTakip
             {
 
             }
-
-
-
-
             Directory.CreateDirectory(yol + "\\" + klasör);
 
         }
     }
-    }
+}
 
