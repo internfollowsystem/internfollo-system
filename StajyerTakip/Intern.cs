@@ -75,7 +75,7 @@ namespace StajyerTakip
         }
 
       
-        public string İkametgah
+        public string Ikametgah
         {
             get;
             set;
@@ -120,7 +120,7 @@ namespace StajyerTakip
             set;
         }
    
-        public string acl_İkametgah
+        public string acl_Ikametgah
         {
             get;
             set;
@@ -263,25 +263,11 @@ namespace StajyerTakip
             set;
         }
         
-        public string Stjİcerigi
+        public string StjIcerigi
         {
             get;
             set;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 
